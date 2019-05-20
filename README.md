@@ -1,3 +1,5 @@
+**This repo has been archived, if you have any questions or need this repo unarchived please email Kyle Shananfelt, Mary Panza, and Lane McLaughlin or the current Development Lead.**
+
 # Description
 
 [![Build Status](https://secure.travis-ci.org/realityforge/chef-kibana.png?branch=master)](http://travis-ci.org/realityforge/chef-kibana)
